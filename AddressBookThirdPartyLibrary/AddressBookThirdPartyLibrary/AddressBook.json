@@ -1,0 +1,26 @@
+
+  {
+    "vcet": [
+      {
+        "firstName": "Sumit",
+        "lastName": "Patel",
+        "address": "Ugwa",
+        "city": "madurai",
+        "state": "Maharashtra",
+        "zipCode": "444000",
+        "phoneNumber": "9898959569"
+      }
+    ],
+    "vec": [
+      {
+        "firstName": "Viraj",
+        "lastName": "Patel",
+        "address": "Akola",
+        "city": "Nagpur",
+        "state": "Vidarbha",
+        "zipCode": "444001",
+        "phoneNumber": "9596969656"
+      }
+    ]
+  }
+
