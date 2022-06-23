@@ -12,6 +12,7 @@ namespace AddressBookThirdPartyLibrary
             //non-static method 
             operationManagement.ReadInput();
             Console.Read();
+
         }
     }
 }
